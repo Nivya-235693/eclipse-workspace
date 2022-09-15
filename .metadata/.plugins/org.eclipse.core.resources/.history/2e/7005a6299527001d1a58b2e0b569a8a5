@@ -1,0 +1,15 @@
+package UstDemo;
+
+public class fibonnaci {
+
+	public static void main(String[] args) {
+		int i=0,j=1,k,count=10;
+		System.out.println(i+""+j);
+		for(int m=2;m<count;++m) {
+			k=i+j;
+			System.out.println(""+k);
+			i=j;
+			j=k;
+		}
+	}
+}

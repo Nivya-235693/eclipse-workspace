@@ -1,0 +1,14 @@
+package UstDemo;
+
+import java.io.DataInputStream;
+
+public class vote {
+
+	public static void main(String[] args) {
+		System.out.println("Enter your age : ");
+		DataInputStream ds = new DataInputStream(System.in);
+		int k = Integer.parseInt(ds.readline());
+		System.out.println(+k);	
+	}
+
+}

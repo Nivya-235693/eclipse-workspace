@@ -1,0 +1,13 @@
+package UstDemo;
+
+public class MultiplicationTable {
+
+	public static void main(String[] args) {
+		for(int i=1;1<10:i++) {
+			int k=2*i;
+			System.out.println("2 * "+i" = "+k);
+		}
+
+	}
+
+}
