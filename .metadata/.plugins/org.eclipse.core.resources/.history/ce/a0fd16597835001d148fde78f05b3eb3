@@ -57,7 +57,6 @@ class fibonacci {
         {
              Reverse rev = new Reverse();
              rev.start();
-             System.out.println();
              Fibona fib = new Fibona();
              fib.start();
              fib.sleep(4000);
