@@ -418,3 +418,11 @@
 2022-09-16 10:56:45,848 [Worker-33: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\Demojunit\src\main\resources
 2022-09-16 10:56:45,851 [Worker-33: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-16 10:56:45,851 [Worker-33: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\Demojunit\src\test\resources
+2022-09-16 17:31:57,147 [Worker-95: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-16 17:31:57,149 [Worker-95: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\Demojunit\src\main\resources
+2022-09-16 17:31:57,150 [Worker-95: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-16 17:31:57,151 [Worker-95: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\Demojunit\src\test\resources
+2022-09-16 17:32:44,310 [Worker-82: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-16 17:32:44,311 [Worker-82: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\Demojunit\src\main\resources
+2022-09-16 17:32:44,312 [Worker-82: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-16 17:32:44,313 [Worker-82: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\Demojunit\src\test\resources
