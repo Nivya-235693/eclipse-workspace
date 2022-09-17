@@ -39,9 +39,6 @@ public class example1 extends Frame {
 	      f.setLayout(null);   
 	      f.setVisible(true);   
 	}    
-	  
-
-
 	public static void main(String[] args) {
 		example1 n = new example1();
 
