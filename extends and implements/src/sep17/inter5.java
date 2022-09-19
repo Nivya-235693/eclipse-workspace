@@ -5,7 +5,6 @@ interface Print3{
 interface showa extends Print3{
 	void show();
 }
-
 class inter5 implements showa{
 	public void print() {
 		System.out.println("hello");
@@ -18,5 +17,4 @@ class inter5 implements showa{
 		obj.print();
 		obj.show();
 	}
-
 }
