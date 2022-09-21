@@ -13,7 +13,7 @@ public class sumandproductofresult {
 		int p=i*j;
 		int sr=sum+p;
 		int sp=sum*p;
-		System.out.println("teh sum of result is "+sr);
+		System.out.println("the sum of result is "+sr);
 		System.out.println("the product of result is "+sp);
 	}
 }
