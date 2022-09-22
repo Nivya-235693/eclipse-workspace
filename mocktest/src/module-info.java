@@ -1,0 +1,2 @@
+module mocktest {
+}
