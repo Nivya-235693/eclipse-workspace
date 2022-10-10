@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class main3 {
 	   public static Candidate getCandidateDetails() throws InvalidSalaryException{
-	        
 	        System.out.println("Enter candidate details");
 	        Scanner in = new Scanner(System.in);
 	        System.out.println("Name");
@@ -21,27 +20,13 @@ public class main3 {
 	                candidate.setExpectedSalary(expectedSalary);
 	                return candidate;
 	            }
-	        }
-	    
-	    
-	    public static void main(String[] args) {
-	        // TODO Auto-generated method stub
-	        
+	   }
+	   public static void main(String[] args){
 	        try {
-
-
-
 	           Candidate c = getCandidateDetails();
 	            System.out.println("Registration Succesful");
-	            
-	            
 	        } catch (Exception e) {
 	            System.out.println(e.getMessage());
 	        }     
-
-
-
 	   }
-
-
 }
