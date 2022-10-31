@@ -23,8 +23,5 @@ public class arrsum {
 				System.out.print(s+" ");
 			}
 		}
-		
-
 	}
-
 }
