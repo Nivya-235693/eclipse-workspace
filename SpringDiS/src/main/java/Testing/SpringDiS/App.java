@@ -14,9 +14,6 @@ public class App
     		    new ClassPathXmlApplicationContext("person.xml");  
     	System.out.println("welcome ");
     	Person  c =context.getBean("person",Person.class);
-    	c.display();
-    	
-    			  
-    			  
+    	c.display();		  
     }
 }

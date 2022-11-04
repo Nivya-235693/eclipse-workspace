@@ -1071,3 +1071,8 @@
 2022-10-31 17:56:18,020 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\SpringDiS\src\main\resources
 2022-10-31 17:56:18,021 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-31 17:56:18,021 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\SpringDiS\src\test\resources
+2022-10-31 18:01:12,504 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-01 16:00:40,824 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-01 16:00:40,911 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\SpringDiS\src\main\resources
+2022-11-01 16:00:40,919 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-01 16:00:40,919 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb112\eclipse-workspace\SpringDiS\src\test\resources
